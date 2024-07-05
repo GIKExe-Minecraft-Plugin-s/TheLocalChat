@@ -1,0 +1,7 @@
+#file: noinspection SpellCheckingInspection
+name: TheLocalChat
+version: '${project.version}'
+main: ru.gikexe.thelocalchat.TheLocalChat
+api-version: '1.21'
+authors: [GIKExe]
+commands: {}
